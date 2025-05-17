@@ -1,3 +1,5 @@
+//sum of two numbers
+
 #include <stdio.h>
 
 int main() {
@@ -14,4 +16,5 @@ sum = num1 + num2;
 printf("%d + %d = %d\n", num1, num2, sum);
 
 return 0;
+//end of programm
 }
